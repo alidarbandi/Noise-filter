@@ -9,4 +9,4 @@ outp=imfilter(img2,h);
  figure,imshow(outp);  %processed image
 % saveas(gcf,'test\BF2.tif');
  %imcontrast(gca);      %contrast tool
- figure, imshow(img2); %original imag
+ figure, imshow(img2); %original image for comparative purposes %%
